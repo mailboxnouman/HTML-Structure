@@ -1,0 +1,120 @@
+div.main{
+    border: 20px solid grey;
+    width: 97%;
+    height: 1000px;
+    border-radius: 25px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: flex-start;
+    gap: 10px;
+    
+    
+ 
+}
+div.header{
+    border: 08px solid rgb(12, 170, 25);
+    width: 97%;
+    height: 80px;
+    border-radius: 15px;
+    margin-top: 10px;
+   }
+
+div.nav{
+    border: 8px solid rgb(247, 24, 210);
+    width: 97%;
+    height: 50px;
+    border-radius: 15px;
+}
+
+div.article{
+    border: 8px solid rgb(83, 24, 247);
+    width: 65%;
+    height: 800px;
+    align-self: flex-start;
+    border-radius: 15px;
+    margin-left: 20px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: flex-start;
+    gap: 10px;
+}
+p.p-article{
+    align-self: flex-start;
+    margin-left: 10px;
+    color: red;
+}
+div.a-header{
+    border: 8px solid rgb(11, 153, 58);
+    width: 97%;
+    height: 50px;
+    border-radius: 15px;
+    margin-bottom: 300px;
+}
+
+.section1{
+    border: 8px solid rgb(247, 24, 128);
+    width: 97%;
+    height: 100px;
+    border-radius: 15px;
+}
+
+.section2{
+    border: 8px solid rgb(228, 14, 114);
+    width: 97%;
+    height: 100px;
+    border-radius: 15px;
+}
+
+div.a-footer{
+    border: 8px solid rgb(214, 247, 24);
+    width: 97%;
+    height: 25px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+p.p-footer1{
+    margin-top: 3px;
+    margin-left: 10px;
+}
+
+
+div.div{
+    border: 8px solid rgb(247, 39, 24);
+    width: 29%;
+    height: 735px;
+    border-radius: 15px;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: flex-start;
+    gap: 10px;
+    align-self: flex-start;
+    position: absolute;
+    margin-left: 65%;
+    margin-top: 8.8%;
+    
+}
+.aside1{
+    border: 8px solid rgb(247, 24, 210);
+    width: 90%;
+    height: 350px;
+    border-radius: 15px;
+    
+}
+.aside2{
+    border: 8px solid rgb(247, 24, 210);
+    width: 90%;
+    height: 250px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+
+.footer{
+    border: 8px solid rgb(24, 247, 35);
+    width: 97%;
+    height: 50px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
